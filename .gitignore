@@ -17,3 +17,6 @@ data/processed/*
 # OS/editor junk
 .DS_Store
 .vscode/
+# Chroma vector databases
+data/chroma_db/
+src/data/chroma_db/

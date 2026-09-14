@@ -1,2 +1,9 @@
 python-dotenv
 pypdf
+langchain-text-splitters
+torch
+numpy
+sentence-transformers
+chromadb
+ollama
+streamlit
